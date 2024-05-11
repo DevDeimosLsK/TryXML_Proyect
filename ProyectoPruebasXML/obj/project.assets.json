@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "iTextSharp-LGPL/4.1.6": {
+        "type": "package",
+        "compile": {
+          "lib/iTextSharp.dll": {}
+        },
+        "runtime": {
+          "lib/iTextSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "iTextSharp-LGPL/4.1.6": {
+      "sha512": "35STyoGKJOX1oTUWHOzn8/I1NXQMbkxKZfBsYwj8ZjOICVEZIi88wfOekQbYeU6MK0VOoZrMMO1e7KQVjJSIxQ==",
+      "type": "package",
+      "path": "itextsharp-lgpl/4.1.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "itextsharp-lgpl.4.1.6.nupkg.sha512",
+        "itextsharp-lgpl.nuspec",
+        "lib/iTextSharp.dll"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "iTextSharp-LGPL >= 4.1.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DeimosLsK\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\DeimosLsK\\source\\repos\\ProyectoPruebasXML\\ProyectoPruebasXML\\ProyectoPruebasXML.csproj",
+      "projectName": "ProyectoPruebasXML",
+      "projectPath": "C:\\Users\\DeimosLsK\\source\\repos\\ProyectoPruebasXML\\ProyectoPruebasXML\\ProyectoPruebasXML.csproj",
+      "packagesPath": "C:\\Users\\DeimosLsK\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\DeimosLsK\\source\\repos\\ProyectoPruebasXML\\ProyectoPruebasXML\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DeimosLsK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "dependencies": {
+          "iTextSharp-LGPL": {
+            "target": "Package",
+            "version": "[4.1.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"iTextSharp-LGPL 4.1.6\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "iTextSharp-LGPL",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

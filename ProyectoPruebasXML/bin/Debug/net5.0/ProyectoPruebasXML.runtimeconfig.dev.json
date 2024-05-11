@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DeimosLsK\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DeimosLsK\\.nuget\\packages"
+    ]
+  }
+}

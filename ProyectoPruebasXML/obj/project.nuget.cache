@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "PHYkKN3s1nD8fr1O8p3mOkMz0CBu/UazfdG0OXRzhU2ZGJEytEhDM7SJcjdU6/Ondg4fnOP9za7IQ/PdMibmSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DeimosLsK\\source\\repos\\ProyectoPruebasXML\\ProyectoPruebasXML\\ProyectoPruebasXML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DeimosLsK\\.nuget\\packages\\itextsharp-lgpl\\4.1.6\\itextsharp-lgpl.4.1.6.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"iTextSharp-LGPL 4.1.6\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net5.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "iTextSharp-LGPL",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

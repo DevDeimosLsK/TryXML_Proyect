@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona>
+    <id>bbede488-dcd6-48aa-b860-4c48589d9097</id>
+    <nombre>Jane Roe 491776820</nombre>
+    <edad>292445248</edad>
+    <ciudad>Los Angeles</ciudad>
+  </Persona>
+  <Persona>
+    <id>c4fca3f2-c472-4641-94b6-27dd59ffca06</id>
+    <nombre>Jane Roe 1423818933</nombre>
+    <edad>1329071341</edad>
+    <ciudad>Los Angeles</ciudad>
+  </Persona>
+  <Persona>
+    <id>0e086450-511f-45ff-b2dd-5abca433ab9b</id>
+    <nombre>Jane Roe 251787790</nombre>
+    <edad>1616207998</edad>
+    <ciudad>Los Angeles</ciudad>
+  </Persona>
+</ArrayOfPersona>
